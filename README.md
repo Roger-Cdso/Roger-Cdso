@@ -1,6 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Roger+Cardoso&fontSize=50&fontColor=fff"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=900&lines=HELLO,+MY+NAME+is+Roger+Cardoso;Software+Developer+Fullstack;I+from+Brasil,+SP;I'm+35+years+old;Be+Welcome!+:%29)](https://git.io/typing-svg)
+***Em 2019 tive meu primeiro contato com programação e em 2023 iniciei minha transição de carreira para a área, através da escola Cubos Academy, onde estou cursando Desenvolvomento de Software Fullstack.***
+
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Roger-Cdso&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Roger Cardoso github stats" /> 
@@ -13,8 +15,9 @@
 </p>
 
 <div align="center">  
-<a href="www.linkedin.com/in/devroger-ccardoso" target="_blank"><img width="10%" src="https://th.bing.com/th/id/R.096487c4ebdd6eb8dc166e3be86a88ce?rik=yokhIwspc3DZtQ&pid=ImgRaw&r=0?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="www.linkedin.com/in/devroger-ccardoso" target="_blank"><img width="08%" src="https://th.bing.com/th/id/R.096487c4ebdd6eb8dc166e3be86a88ce?rik=yokhIwspc3DZtQ&pid=ImgRaw&r=0?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
+
   
 
 ### Main skills:
