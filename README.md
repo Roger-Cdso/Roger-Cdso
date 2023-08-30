@@ -14,12 +14,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Roger-Cdso&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<div align="center">  
-<a href="www.linkedin.com/in/devroger-ccardoso" target="_blank"><img width="08%" src="https://th.bing.com/th/id/R.096487c4ebdd6eb8dc166e3be86a88ce?rik=yokhIwspc3DZtQ&pid=ImgRaw&r=0?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div>
-
   
-
 ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
