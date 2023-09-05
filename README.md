@@ -1,8 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Roger+Cardoso&fontSize=50&fontColor=fff"/>
 
-***Em 2019 tive meu primeiro contato com programação e em 2023 iniciei minha transição de carreira para a área, através da escola Cubos Academy.***
-
-***Tenho interesse em atuar como Desenvolvedor Web back-end, front-end ou full Stack.***
+***Desenvolvedor Web full Stack.***
 
 
 
